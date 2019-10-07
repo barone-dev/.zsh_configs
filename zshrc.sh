@@ -99,3 +99,5 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 # source /root/.zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 # source /home/bluestorm/.zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+
+source ~/zsh_configs/aliases/manager.sh

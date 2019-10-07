@@ -1,0 +1,1 @@
+alias g_status="git status"
