@@ -1,1 +1,7 @@
 alias g_status="git status"
+alias g_pull="git pull"
+alias g_add_commit="git add . && git commit -m ${}"
+alias g_checkout="git checkout ${}"
+alias g_merge="git merge ${}"
+alias g_branch_new="git checkout -b ${}"
+alias g_branch_list="git show-branch -a"
