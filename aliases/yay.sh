@@ -1,0 +1,1 @@
+alias yay_clean_unused_dep="yay -Yc"
