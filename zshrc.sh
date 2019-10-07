@@ -101,3 +101,4 @@ source $ZSH/oh-my-zsh.sh
 # source /home/bluestorm/.zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 source ~/zsh_configs/aliases/manager.sh
+source ~/zsh_configs/services.sh
