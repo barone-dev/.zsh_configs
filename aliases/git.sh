@@ -1,4 +1,5 @@
 alias g_status="git status"
+alias g_push="git pull && git push"
 alias g_pull="git pull"
 alias g_add_commit="git add . && git commit -m ${}"
 alias g_checkout="git checkout ${}"
