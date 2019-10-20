@@ -1,4 +1,5 @@
 source ~/.zsh_configs/aliases/git.sh
+source ~/.zsh_configs/aliases/personal.sh
 source ~/.zsh_configs/aliases/python.sh
 source ~/.zsh_configs/aliases/yay.sh
 source ~/.zsh_configs/aliases/zsh.sh
