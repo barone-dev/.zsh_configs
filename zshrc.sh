@@ -100,3 +100,7 @@ source $ZSH/oh-my-zsh.sh
 source /usr/share/nvm/init-nvm.sh
 source ~/.zsh_configs/aliases/manager.sh
 source ~/.zsh_configs/services.sh
+
+
+echo "Git user: $(git config user.name)"
+echo "Git email: $(git config user.email)"
